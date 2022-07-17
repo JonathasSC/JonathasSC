@@ -3,8 +3,11 @@
 ### Vou falar um pouco sobre mim:
 
 ### Estou estudando
-<img src='https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor' width='40' height='40'>
-<img src='https://icongr.am/devicon/javascript-original.svg?size=117&color=currentColor' width='40' height='40'>
+<img src='https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor' width='40' height='40'/> <img src='https://icongr.am/devicon/javascript-original.svg?size=117&color=currentColor' width='40' height='40'/>
+
+
+
+
 
 
 <!--
