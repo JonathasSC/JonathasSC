@@ -3,7 +3,8 @@
 ### Vou falar um pouco sobre mim:
 
 ### Estou estudando
-<svg src='https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor'></svg>
+<img src='https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor' width='40' height='40'>
+
 
 
 <!--
