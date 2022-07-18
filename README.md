@@ -1,6 +1,5 @@
-# Olá! tudo bem? 
-## Bem vindo ao meu perfil
-Aqui falarei de forma breve sobre mim e meu caminho no mundo da programação
+# Olá! tudo bem? Bem vindo ao meu perfil
+## Aqui falarei de forma breve sobre mim e meu caminho no mundo da programação
 
 Me chamo Jonathas Dos Santos Cardoso, tenho atualmente 18 anos e moro em Recife, Capital Pernambucana
 
