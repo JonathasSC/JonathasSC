@@ -1,6 +1,7 @@
-## Olá! tudo bem? 👋
-### Bem vindo ao meu perfil
-### Vou falar um pouco sobre mim:
+# Olá! tudo bem? 
+## Bem vindo ao meu perfil
+### Aqui falarei um pouco de mim e de minha jornada no mundo do desenvolvimento
+
 
 ### Estou estudando
 <img src='https://icongr.am/devicon/python-original.svg?size=128&color=currentColor' width='40' height='40'/> <img src='https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor' width='40' height='40'/> <img src='https://icongr.am/devicon/javascript-original.svg?size=117&color=currentColor' width='40' height='40'/>
