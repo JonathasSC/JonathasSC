@@ -8,9 +8,9 @@
 
 ### Entretanto somente com 14 anos pude começar a ter contato com programação, tendo como minha primeira línguagem o **Python** e com ela também aprendi lógica de programação.
 
-### Por problemas infelizmente deixei esse mundo de lado por um tempo, focando também em algo que despertava interesse na infância, ser designer, área essa que trabalhei como freelancer de forma ativa dos 15 aos 17 anos e também atualmente de forma mais inativa.
+ Por problemas infelizmente deixei esse mundo de lado por um tempo, focando também em algo que despertava interesse na infância, ser designer, área essa que trabalhei como freelancer de forma ativa dos 15 aos 17 anos e também atualmente de forma mais inativa.
 
-### Mas nunca esqueci e deixei de querer ser desenvolvedor, durante esse tempo fiz pequenos projetos pessoais para manter a mente ativa e atualmente sigo meus estudos e procurando expandir meu conhecimento e habilidades.
+ Mas nunca esqueci e deixei de querer ser desenvolvedor, durante esse tempo fiz pequenos projetos pessoais para manter a mente ativa e atualmente sigo meus estudos e procurando expandir meu conhecimento e habilidades.
 
 ### Estou estudando atualmente
 <img src='https://icongr.am/devicon/python-original.svg?size=128&color=currentColor' width='40' height='40'/> <img src='https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor'/> <img src='https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor' width='40' height='40'/> <img src='https://icongr.am/devicon/javascript-original.svg?size=117&color=currentColor' width='40' height='40'/>
