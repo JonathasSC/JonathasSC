@@ -1,8 +1,12 @@
 # Olá! tudo bem? 
 ## Bem vindo ao meu perfil
-### Aqui falarei um pouco de mim e de minha jornada no mundo do desenvolvimento
+### Aqui falarei de forma breve sobre mim e meu caminho no mundo da programação
 
+### Me chamo Jonathas Dos Santos Cardoso, tenho atualmente 18 anos e moro em Recife, Capital Pernambucana
 
+### Desde os 7 anos sempre tive na mente uma vontade de trabalhar com tecnologia sempre fui curioso para saber como certas coisas funcionavam.
+
+### Entretanto somente com 14 anos pude começar a ter contato com programação, tendo como minha primeira línguagem o **Python**
 ### Estou estudando
 <img src='https://icongr.am/devicon/python-original.svg?size=128&color=currentColor' width='40' height='40'/> <img src='https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor' width='40' height='40'/> <img src='https://icongr.am/devicon/javascript-original.svg?size=117&color=currentColor' width='40' height='40'/>
 
