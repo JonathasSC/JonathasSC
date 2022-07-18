@@ -13,7 +13,7 @@ Por problemas infelizmente deixei esse mundo de lado por um tempo, focando tamb√
 Mas nunca esqueci e deixei de querer ser desenvolvedor, durante esse tempo fiz pequenos projetos pessoais para manter a mente ativa e atualmente sigo meus estudos e procurando expandir meu conhecimento e habilidades.
 
 ### Estou estudando atualmente
-<img src='https://icongr.am/devicon/python-original.svg?size=128&color=currentColor' width='40' height='40'/><img src='https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor' width='40'height='40'/><img src='https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor' width='40' height='40'/><img src='https://icongr.am/devicon/javascript-original.svg?size=117&color=currentColor' width='40' height='40'/>
+<img src='https://icongr.am/devicon/python-original.svg?size=128&color=currentColor' width='40' height='40'/>       <img src='https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor' width='40'height='40'/>         <img src='https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor' width='40' height='40'/>         <img src='https://icongr.am/devicon/javascript-original.svg?size=117&color=currentColor' width='40' height='40'/>
 
 
 
