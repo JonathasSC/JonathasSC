@@ -1,6 +1,6 @@
 # Olá, Galera!👋
 
-**Sou um estudante do ensino médio em busca de sempre aprender e entender as coisas do mundo da computação, resumindo eu:**
+**Sou um estudante do ensino médio em busca de sempre aprender e entender as coisas do mundo da computação, resumindo...eu:**
 
 * ❤️ Sou apaixonado por programação e abstrações que compõe um sistema.
 
@@ -12,3 +12,5 @@
 
 ### Estou estudando atualmente:
 <img src='https://icongr.am/devicon/python-original.svg?size=128&color=currentColor' width='40' height='40'/> <img src='https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor' width='40' height='40'/> <img src='https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor' width='40' height='40'/> <img src='https://icongr.am/devicon/javascript-original.svg?size=117&color=currentColor' width='40' height='40'/> <img src='https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor' width='40' height='40'/>
+
+jonathassc/github-readme-stats
