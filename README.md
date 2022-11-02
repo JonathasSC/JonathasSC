@@ -6,7 +6,7 @@
 
 * 👀 Sou autodidata, com curiosidade e êxtase para aprender.
 
-* 🎯 Estou atualmente estou focado em ser desenvolvedor front-end.
+* 🎯 Estou atualmente focado em ser desenvolvedor front-end.
 
 * 👨🏻‍💻 Pretendo ser desenvolvedor full stack.
 
