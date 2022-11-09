@@ -11,7 +11,7 @@
 * 👨🏻‍💻 Pretendo ser desenvolvedor full stack.
 
 ### Estou estudando atualmente:
-<img src='https://icongr.am/devicon/python-original.svg?size=128&color=currentColor' width='40' height='40'/> <img src='https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor' width='40' height='40'/> <img src='https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor' width='40' height='40'/> <img src='https://icongr.am/devicon/javascript-original.svg?size=117&color=currentColor' width='40' height='40'/> <img src='https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor' width='40' height='40'/>
+<img src='https://icongr.am/devicon/python-original.svg?size=128&color=currentColor' width='40' height='40'/> <img src='https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor' width='40' height='40'/> <img src='https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor' width='40' height='40'/> <img src='https://icongr.am/devicon/javascript-original.svg?size=117&color=currentColor' width='40' height='40'/> <img src='https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor' width='40' height='40'/> <img src='https://icongr.am/devicon/mysql-plain.svg?size=128&color=ebc924' width='40' height='40'/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathassc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
