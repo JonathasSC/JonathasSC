@@ -1,6 +1,6 @@
 # Olá, Galera!👋
 
-**Sou um estudante do ensino médio em busca de sempre aprender e entender as coisas do mundo da computação, resumindo...eu:**
+**Recém formado no ensino medio estou em busca de sempre aprender e entender as coisas do mundo da computação, resumindo...eu:**
 
 * ❤️ Sou apaixonado por programação e abstrações que compõe um sistema.
 
