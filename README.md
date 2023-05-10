@@ -1,6 +1,6 @@
 # Olá, Galera!👋
 
-**Recém formado no ensino medio estou em busca de sempre aprender e entender as coisas do mundo da computação, resumindo...eu:**
+**Estudante de Análise e Desenvolvimento de Sistemas estou em busca de sempre aprender e entender as coisas do mundo da computação, resumindo...eu:**
 
 * ❤️ Sou apaixonado por programação e abstrações que compõe um sistema.
 
@@ -19,6 +19,4 @@
 ### Estudando atualmente:
 ![django](https://img.shields.io/badge/DJANGO-092e20?&logo=django&logoColor=white&style=flat-square&logoWidth=30) ![react.js](https://img.shields.io/badge/REACT.JS-61DAFB?&logo=react&logoColor=303030&style=flat-square&logoWidth=30) ![reactnative](https://img.shields.io/badge/REACT_NATIVE_-282c34?&logo=react&logoColor=61DAFB&style=flat-square&logoWidth=30) ![figma](https://img.shields.io/badge/FIGMA-7e6df9?&logo=figma&logoColor=ffffff&style=flat-square&logoWidth=30)
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathassc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jonathassc&theme=radical)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathassc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jonathassc&theme=radical)](https://git.io/streak-stats)
