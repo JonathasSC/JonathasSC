@@ -19,4 +19,4 @@
 ### Estudando atualmente:
 ![django](https://img.shields.io/badge/DJANGO-092e20?&logo=django&logoColor=white&style=flat-square&logoWidth=30) ![react.js](https://img.shields.io/badge/REACT.JS-61DAFB?&logo=react&logoColor=303030&style=flat-square&logoWidth=30) ![reactnative](https://img.shields.io/badge/REACT_NATIVE_-282c34?&logo=react&logoColor=61DAFB&style=flat-square&logoWidth=30) ![figma](https://img.shields.io/badge/FIGMA-7e6df9?&logo=figma&logoColor=ffffff&style=flat-square&logoWidth=30)
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathassc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jonathassc&theme=radical)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathassc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jonathassc&theme=radical)
