@@ -72,8 +72,7 @@ Hello! I'm passionate about system abstractions and problem-solving. I like to u
 
 <div align="center">
 
-[![codecardoso](https://github-readme-stats.vercel.app/api/pin/?username=jonathassc&repo=codecardoso&bg_color=09090b&title_color=8b5cf6&text_color=a1a1aa&icon_color=8b5cf6&border_color=3f3f46)](https://github.com/JonathasSC/codecardoso)
-[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=jonathassc&repo=portfolio&bg_color=09090b&title_color=8b5cf6&text_color=a1a1aa&icon_color=8b5cf6&border_color=3f3f46)](https://github.com/JonathasSC/portfolio)
+[![shortly](https://github-readme-stats.vercel.app/api/pin/?username=jonathassc&repo=shortly&bg_color=09090b&title_color=8b5cf6&text_color=a1a1aa&icon_color=8b5cf6&border_color=3f3f46)](https://github.com/JonathasSC/shortly)
 
 </div>
 
@@ -87,7 +86,6 @@ Hello! I'm passionate about system abstractions and problem-solving. I like to u
 [![GitHub Streak](https://streak-stats.demolab.com?user=jonathassc&background=09090b&border=3f3f46&ring=8b5cf6&fire=7c3aed&currStreakLabel=8b5cf6&sideLabels=a1a1aa&dates=71717a&currStreakNum=ffffff&sideNums=ffffff)](https://github.com/jonathassc)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathassc&layout=compact&bg_color=09090b&title_color=8b5cf6&text_color=a1a1aa&border_color=3f3f46)](https://github.com/jonathassc)
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=jonathassc&layout=compact&bg_color=09090b&title_color=8b5cf6&text_color=a1a1aa&border_color=3f3f46)](https://wakatime.com/@jonathassc)
 
 </div>
 
