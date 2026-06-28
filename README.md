@@ -1,45 +1,94 @@
-## Bem-vindo ao meu perfil | Welcome to my profile
+![header](https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=100&section=header)
 
---- 
+<!-- badges base color: #09090b | accent: #8b5cf6 | muted: #3f3f46 -->
 
-**Português (PT-BR)**
+<div align="center">
 
-Olá, pessoal! 👋
+# Jonathas Cardoso
 
-Eu sou desenvolvedor full stack, estudante de Análise e Desenvolvimento de Sistemas e técnico em Redes de Computadores.
+**Desenvolvedor Full Stack · Estudante de ADS · Técnico em Redes**
 
-Além disso, sou um entusiasta de tecnologia, amante de abstrações de sistemas e da resolução de problemas.
+*Full Stack Developer · Systems Analysis Student · Network Technician*
 
----
-**English (EN-US)**
+![Profile Views](https://komarev.com/ghpvc/?username=jonathassc&style=flat-square&color=8b5cf6&label=visitas+ao+perfil)
 
-Hello, everyone!👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-09090b?style=flat-square&logo=linkedin&logoColor=8b5cf6)](https://www.linkedin.com/in/jonathas-s-cardoso/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-09090b?style=flat-square&logo=vercel&logoColor=8b5cf6)](https://jonathas-cardoso.vercel.app/)
+[![Blog](https://img.shields.io/badge/Code%20Cardoso-09090b?style=flat-square&logo=astro&logoColor=8b5cf6)](https://codecardoso.vercel.app/)
+[![Currículo](https://img.shields.io/badge/Currículo-09090b?style=flat-square&logo=googledocs&logoColor=8b5cf6)](https://docs.google.com/document/d/1zZ3s1whEUmN_AK0UVWtm-wkwSGLxBhUO9mhSltV5Kmg/edit?tab=t.0)
 
-I'm a Full Stack Developer, a student of Systems Analysis and Development, and a Computer Networks Technician.
-
-Additionally, I'm a technology enthusiast, a fan of system abstractions, and passionate about problem-solving.
-
----
-
-#### 🛠️ Stack de tecnologias | Tech Stack
-
-##### Backend:
-![django](https://img.shields.io/badge/DJANGO-092e20?&logo=django&logoColor=white&style=flat-square&logoWidth=30) ![fastapi](https://img.shields.io/badge/FASTAPI-black?&logo=fastapi&logoColor=white&style=flat-square&logoWidth=30) ![node.js](https://img.shields.io/badge/NODE.JS-68A063?&logo=node.js&logoColor=303030&style=flat-square&logoWidth=30) ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-##### Banco de dados | Database
-![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=flat-square&logo=sqlite&logoColor=white) ![PostGreSQL](https://img.shields.io/badge/POSTGRESQL-4169e1?style=flat-square&logo=postgresql&logoColor=white) ![MySql](https://img.shields.io/badge/MYSQL-00758F?&logo=mysql&logoColor=white&style=flat-square&logoWidth=30)
-
-##### Versionamento | Versioning:
-![git](https://img.shields.io/badge/GIT-f34f29?&logo=git&logoColor=white&style=flat-square&logoWidth=30) ![gitlab](https://img.shields.io/badge/GITLAB-414141?&logo=gitlab&logoColor=f34f29&style=flat-square&logoWidth=300) ![github](https://img.shields.io/badge/GITHUB-414141?&logo=github&logoColor=white&style=flat-square&logoWidth=30)
-
-##### Frontend:
-![VueJs](https://img.shields.io/badge/VUEJS-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![Sass](https://img.shields.io/badge/SASS-c95e92?&logo=sass&logoColor=ffffff&style=flat-square&logoWidth=30) ![VueJs](https://img.shields.io/badge/TAILWINDCSS-grey?style=flat-square&logo=tailwind-css&logoColor=38B2AC) ![Axios](https://img.shields.io/static/v1?style=flat-square&message=AXIOS&color=5A29E4&logo=AXIOS&logoColor=FFFFFF&label=)  
-
-
-##### Web Design:
-![figma](https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=figma&logoColor=white)
+</div>
 
 ---
-#### Algumas estátisticas | Some stats
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathassc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jonathassc&theme=radical)
+
+<details open>
+<summary><strong>PT-BR</strong></summary>
+
+Olá! Sou apaixonado por abstrações de sistemas e pela resolução de problemas. Gosto de entender o contexto antes de escrever a primeira linha de código — isso resulta em software mais organizado, escalável e fácil de evoluir. Escrevo sobre isso no **[Code Cardoso](https://codecardoso.vercel.app/)**.
+
+</details>
+
+<details>
+<summary><strong>EN-US</strong></summary>
+
+Hello! I'm passionate about system abstractions and problem-solving. I like to understand context before writing the first line of code — this results in more organized, scalable, and easy-to-evolve software. I write about it at **[Code Cardoso](https://codecardoso.vercel.app/)**.
+
+</details>
+
+---
+
+### 🛠️ Stack
+
+**Backend**
+
+![Django](https://img.shields.io/badge/Django-09090b?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-09090b?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-09090b?style=flat-square&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-09090b?style=flat-square&logo=docker&logoColor=white)
+
+**Frontend**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-09090b?style=flat-square&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-09090b?style=flat-square&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-09090b?style=flat-square&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-09090b?style=flat-square&logo=sass&logoColor=white)
+
+**Banco de dados**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-09090b?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-09090b?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-09090b?style=flat-square&logo=sqlite&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-09090b?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-09090b?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-09090b?style=flat-square&logo=gitlab&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-09090b?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+### 🚀 Projetos em destaque | Featured projects
+
+<div align="center">
+
+[![codecardoso](https://github-readme-stats.vercel.app/api/pin/?username=jonathassc&repo=codecardoso&bg_color=09090b&title_color=8b5cf6&text_color=a1a1aa&icon_color=8b5cf6&border_color=3f3f46)](https://github.com/JonathasSC/codecardoso)
+[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=jonathassc&repo=portfolio&bg_color=09090b&title_color=8b5cf6&text_color=a1a1aa&icon_color=8b5cf6&border_color=3f3f46)](https://github.com/JonathasSC/portfolio)
+
+</div>
+
+---
+
+### 📊 Estatísticas | Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonathassc&show_icons=true&bg_color=09090b&title_color=8b5cf6&text_color=a1a1aa&icon_color=8b5cf6&border_color=3f3f46)](https://github.com/jonathassc)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jonathassc&background=09090b&border=3f3f46&ring=8b5cf6&fire=7c3aed&currStreakLabel=8b5cf6&sideLabels=a1a1aa&dates=71717a&currStreakNum=ffffff&sideNums=ffffff)](https://github.com/jonathassc)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathassc&layout=compact&bg_color=09090b&title_color=8b5cf6&text_color=a1a1aa&border_color=3f3f46)](https://github.com/jonathassc)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=jonathassc&layout=compact&bg_color=09090b&title_color=8b5cf6&text_color=a1a1aa&border_color=3f3f46)](https://wakatime.com/@jonathassc)
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=100&section=footer)
